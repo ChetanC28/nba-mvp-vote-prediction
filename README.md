@@ -10,8 +10,6 @@ baselines. The more useful result is *why* the harder methods didn't help — a
 hand-built adaptive weighting scheme lost to taking the plain average of the
 same five models, and finding out why exposed a real flaw in the idea.
 
-**[Live demo →](https://nba-mvp-predictor-cse881.streamlit.app)** — free
-Streamlit hosting, so give it a moment to wake from hibernation on first load.
 
 ![Test RMSE across all evaluated models](figures/model_comparison.png)
 
