@@ -218,5 +218,3 @@ The full write-up, including per-season error analysis, is in
 
 ---
 
-Built for **CSE 881: Data Mining** at **Michigan State University** as a
-four-person team project.
