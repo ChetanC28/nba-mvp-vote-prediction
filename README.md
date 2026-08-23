@@ -208,13 +208,7 @@ CSVs are committed — see [RUNNING.md](RUNNING.md).
 │   ├── 01_baseline_models.ipynb  # exploration + 5 standalone models
 │   └── 02_stacked_ensemble.ipynb # the reported pipeline, end to end
 ├── figures/
-├── results/model_comparison.csv
-└── report/NBA_MVP_Prediction_System.pdf
+└── results/model_comparison.csv
 ```
 
 Setup, runtimes, and known rough edges are in **[RUNNING.md](RUNNING.md)**.
-The full write-up, including per-season error analysis, is in
-[report/NBA_MVP_Prediction_System.pdf](report/NBA_MVP_Prediction_System.pdf).
-
----
-

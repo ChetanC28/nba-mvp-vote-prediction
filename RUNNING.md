@@ -159,6 +159,5 @@ around — they're listed so you know what you're hitting.
 │   ├── 01_baseline_models.ipynb
 │   └── 02_stacked_ensemble.ipynb
 ├── figures/
-├── results/
-└── report/NBA_MVP_Prediction_System.pdf
+└── results/
 ```
